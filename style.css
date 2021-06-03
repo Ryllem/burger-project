@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+}
+
+#middle {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+#title {
+    color: teal;
+    font-size: 50px;
+}
